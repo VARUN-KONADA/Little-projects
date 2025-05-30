@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+   background-color: #00F1FF;
+    justify-content: center;
+}
+h2{
+  text-align: center;
+  font-family: cursive;
+  font-size: 28pt;
+}
+input{
+  margin-left: 24%;
+    font-family: cursive;
+}
+.tbutton {
+background-color: lawngreen;
+  font-family: cursive;
+}
+button
+{
+  background-color: #FF0000;
+}
+div{
+max-width: 50%;
+  margin: auto;
+  font-family: cursive;
+}
